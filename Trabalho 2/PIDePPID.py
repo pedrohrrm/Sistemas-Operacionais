@@ -5,9 +5,7 @@
 
 import os
 
-print("Obtendo o PID do Processo:")
-
-print("PID {}".format(os.getpid()))
+c
 
 print("Obtendo PPID do Processo:")
 
