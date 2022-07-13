@@ -1,0 +1,12 @@
+Nomes: Breno Thierry Barbalho Alencar,Enicarlos Pereira Gonçalves Junior, Gustavo Vaz Fernandes, João Paulo de Souza Costa, Pedro Henrique Ribeiro Martins
+
+Executando o processo Pai – PID: 5809 
+
+Pai: PID 5809, PPID 5803 
+
+Filho: PID 5833, PPID 5809 
+
+Pai: PID 5809, PPID 5803 
+
+Filho: PID 5833, PPID 5809
+

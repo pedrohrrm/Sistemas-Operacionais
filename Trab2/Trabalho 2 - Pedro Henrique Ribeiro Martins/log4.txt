@@ -1,0 +1,34 @@
+breno@breno-VirtualBox:~/Documentos$ python3 trab2_4breno.py
+Sem uso Threads, imprime de  1 a 10 : 1
+Sem uso Threads, imprime de  1 a 10 : 2
+Sem uso Threads, imprime de  1 a 10 : 3
+Sem uso Threads, imprime de  1 a 10 : 4
+Sem uso Threads, imprime de  1 a 10 : 5
+Sem uso Threads, imprime de  1 a 10 : 6
+Sem uso Threads, imprime de  1 a 10 : 7
+Sem uso Threads, imprime de  1 a 10 : 8
+Sem uso Threads, imprime de  1 a 10 : 9
+Sem uso Threads, imprime de  1 a 10 : 10
+
+
+Sem uso Threads, imprime de  1 a 10 : 1
+Usando Threads, imprime de  1 a 10 : 1
+Sem uso Threads, imprime de  1 a 10 : 2
+Usando Threads, imprime de  1 a 10 : 2
+Sem uso Threads, imprime de  1 a 10 : 3
+Usando Threads, imprime de  1 a 10 : 3
+Sem uso Threads, imprime de  1 a 10 : 4
+Usando Threads, imprime de  1 a 10 : 4
+Sem uso Threads, imprime de  1 a 10 : 5
+Usando Threads, imprime de  1 a 10 : 5
+Sem uso Threads, imprime de  1 a 10 : 6
+Usando Threads, imprime de  1 a 10 : 6
+Sem uso Threads, imprime de  1 a 10 : 7
+Usando Threads, imprime de  1 a 10 : 7
+Sem uso Threads, imprime de  1 a 10 : 8
+Usando Threads, imprime de  1 a 10 : 8
+Sem uso Threads, imprime de  1 a 10 : 9
+Usando Threads, imprime de  1 a 10 : 9
+Sem uso Threads, imprime de  1 a 10 : 10
+Usando Threads, imprime de  1 a 10 : 10
+

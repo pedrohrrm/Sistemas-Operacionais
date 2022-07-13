@@ -1,0 +1,18 @@
+Nomes: Breno Thierry Barbalho Alencar,Enicarlos Pereira Gonçalves Junior, Gustavo Vaz Fernandes, João Paulo de Souza Costa, Pedro Henrique Ribeiro Martins
+
+Valor do PID do processo em execução é:
+72311
+Valor do PPID Do processo em execução é:
+44126
+Valor do PID do processo em execução é:
+75510
+Valor do PPID do processo em execução é:
+44126
+Valor do PID do processo em execução é:
+75528
+Valor do PPID do processo em execução é:
+44126
+Valor do PID do processo em execução é:
+75539
+Valor do PPID do processo em execução é:
+44126

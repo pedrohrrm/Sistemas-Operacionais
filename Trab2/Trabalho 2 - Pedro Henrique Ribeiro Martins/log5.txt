@@ -1,0 +1,49 @@
+Nomes: Enicarlos, Breno Thierry, Gustavo Vaz, Joao Paulo, Pedro Henrique Ribeiro 
+
+
+<threading.Semaphore object at 0x7fe8c8c53f40>
+Função principal finalizada.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+<threading.Semaphore object at 0x7fe8c8c53f40>
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+<threading.Semaphore object at 0x7fe8c8c53f40>
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+<threading.Semaphore object at 0x7fe8c8c53f40>
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+

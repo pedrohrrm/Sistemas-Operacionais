@@ -1,0 +1,6 @@
+a filho escreve o texto 
+o pai vai ler o texto escrito pela filho...
+a filho escrevendo
+o pai le
+texto = o texto escrito pela criança...
+a filho termina
